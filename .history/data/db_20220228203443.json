@@ -1,0 +1,18 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "why do we use it?\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida eleifend velit convallis elementum. Nulla lacus turpis, efficitur dignissim rutrum id, hendrerit ut turpis. Vivamus ornare finibus dignissim. Maecenas maximus libero in erat pretium cursus. Morbi finibus bibendum lorem in varius. Morbi pharetra nibh quis enim vehicula, vitae facilisis eros semper. Donec vitae nisl nec nulla dapibus vulputate eget quis tellus. Vestibulum vitae lectus sed sem congue tincidunt.
+
+      Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris viverra, purus nec mollis tempus, urna lorem aliquet velit, eu luctus velit ligula vitae dui. In semper arcu ut felis suscipit finibus. Phasellus in augue nec tortor tempor rhoncus in mollis massa. Nam sed velit vel est varius egestas. Nam feugiat consequat metus, id venenatis nisi iaculis non. Donec volutpat nisi eu pharetra faucibus. Nulla facilisi. Vivamus eleifend consequat luctus. Ut odio eros, accumsan et augue eget, convallis consequat nisl. Nunc condimentum diam mi, non faucibus justo porta non.",
+      "author": "Luis",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "why do we use it?\nIt is a long established fact that reader will be distracted..",
+      "author": "Mary",
+      "id": 2
+    }
+  ]
+}
