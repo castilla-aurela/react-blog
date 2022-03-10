@@ -1,21 +1,15 @@
 {
   "blogs": [
     {
-      "title": "My First Blog",
-      "body": "why do we use it?\nIt is a long established fact that reader will be distracted..",
-      "author": "Luis",
-      "id": 1
-    },
-    {
-      "title": "Opening Party!",
-      "body": "why do we use it?\nIt is a long established fact that reader will be distracted..",
-      "author": "Mary",
+      "title": "erer",
+      "body": "asdsd1",
+      "author": "luis",
       "id": 2
     },
     {
-      "title": "Hello",
-      "body": "aasdsd",
-      "author": "luis",
+      "title": "Updatednowthe title",
+      "body": "Updatedonlybody",
+      "author": "mary",
       "id": 5
     }
   ]
