@@ -1,16 +1,22 @@
 {
   "blogs": [
     {
-      "title": "erer",
-      "body": "asdsd1",
+      "title": "New Blog 1",
+      "body": "sdsadsa",
       "author": "luis",
       "id": 2
     },
     {
-      "title": "Updatednowthe title",
+      "title": "New Blog 2",
       "body": "Updatedonlybody",
       "author": "mary",
       "id": 5
+    },
+    {
+      "title": "New Blog 3",
+      "body": "adsf",
+      "author": "mary",
+      "id": 6
     }
   ]
 }
